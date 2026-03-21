@@ -1,72 +1,101 @@
-# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /> Keroles Adel
+<h1 align="center">Hi 👋, I'm Keroles Adel</h1>
+<h3 align="center">Front-End Developer | React.js & Next.js Specialist</h3>
 
 <p align="center">
-<a href="https://linkedin.com/in/your-linkedin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kerolesadel" height="30" width="30" /></a>&nbsp;
-<a href="https://github.com/QGitHub" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="qgithub" height="30" width="30" /></a>&nbsp;
-<a href="mailto:kerolesadel297@gmail.com"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="kerolesadel297@gmail.com" height="30" width="30" /></a>
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" />
 </p>
 
-![](https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif)
-
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
-- 🏦 I'm a **Front-End Developer** specializing in **React.js & Next.js** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🎓 Currently studying **Computer Science** at El-Shorouk Academy
-- 💻 I use daily: **.jsx**, **.tsx**, **.js**, **.css**
-- 🌍 Based in **Cairo, Egypt** 🇪🇬
-- 🗣️ Languages: **Arabic** (Native), **English** (Intermediate), **German** (A1)
-- ⚡ Fun fact: I love building responsive interfaces and solving front-end challenges!
-- 🧑‍💻 Tech I work on:
-
 <p align="center">
-      <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,git,github,figma,vscode" />
-      </a>
+  <a href="https://linkedin.com/in/keroles-adel-08020b332">
+    <img src="https://img.shields.io/badge/LinkedIn-kerolesadel-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:kerolesadel297@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://github.com/kero571-adel">
+    <img src="https://img.shields.io/badge/GitHub-profile-black?style=for-the-badge&logo=github" />
+  </a>
 </p>
 
 ---
 
-### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
+## 🚀 About Me
 
-![Keroles's github stats](https://github-readme-stats.vercel.app/api?username=QGitHub&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QGitHub&layout=compact&theme=dark)
-
----
-
-### <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = '23' /> My Latest Projects:
-
-- **Safarni** - Travel & Flight Booking Platform with Payment, Destinations, and Flight Comparison
-- **Cure** - Medical Consultation Platform with Authentication and Appointment Management
-- **StudyTrack** - Personal Study Dashboard to track courses, tasks, and progress
-- **Restaurant Web** - Responsive restaurant app with menu browsing and order management
-- **Full-Stack Web App** - Next.js app with Prisma & MySQL database
-- **E-Commerce Store** - Full front-end e-commerce application with cart management
-
-▶ [View more on GitHub](https://github.com/QGitHub)
+- 💻 Front-End Developer specializing in **React.js & Next.js**
+- 🎓 Computer Science student @ El-Shorouk Academy
+- 🌍 Based in Cairo, Egypt 🇪🇬
+- ⚡ Passionate about building **scalable, responsive, and clean UI**
+- 📈 Always learning and improving my skills
 
 ---
 
-### 📫 How to reach me:
-- Email: kerolesadel297@gmail.com
-- Phone: 01272442140
-- LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-linkedin)
+## 🧠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,redux,git,github,figma,vscode" />
+</p>
 
 ---
 
-### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
-<a href="https://github.com/marketplace/actions/quote-readme">
-<!--STARTS_HERE_QUOTE_README-->
-• <i>"Code is like humor. When you have to explain it, it's bad."</i> - Cory House
-<!--ENDS_HERE_QUOTE_README-->
-</a>
+## 💼 Experience
+
+### 🏢 Front-End Developer Intern — Huma-Volve
+- Built full **authentication system** (Login / Signup / Validation)
+- Developed scalable UI using **React, TypeScript, Redux Toolkit**
+- Worked on:
+  - Medical Platform 🏥
+  - Travel Booking Platform ✈️
+- Used Git workflow (branches, pull requests, code reviews)
+
+### 🏢 Front-End Developer Intern — Saiket Systems
+- Built interactive web pages using HTML, CSS, JavaScript
+- Improved UI/UX and performance
+- Fixed bugs and applied clean code practices
 
 ---
 
-### <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29' /> Here's a Pinch of Humour:
-<img src="https://readme-jokes.vercel.app/api" alt="Error fetching humour, Refresh again to view the Card" width = '11000' />
+## 🌐 Portfolio
+
+<p align="center">
+  <a href="https://portfolio-murex-gamma-yhfh8lgwj5.vercel.app/">
+    <img src="https://img.shields.io/badge/View%20My%20Portfolio-000?style=for-the-badge&logo=vercel" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kero571-adel&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kero571-adel&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🎯 Current Focus
+
+- Mastering **Next.js (App Router + Performance)**
+- Writing **clean, scalable, production-level code**
+- Improving **UI/UX thinking**
+- Looking for a **Front-End Developer opportunity**
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: kerolesadel297@gmail.com  
+- 📱 Phone: 01272442140  
+- 🔗 LinkedIn: https://linkedin.com/in/keroles-adel-08020b332  
+
+---
+
+## 💡 Quote
+
+> "Write code for humans, not just machines."
 
 ---
 
 <p align="center">
-Made with ❤️ by Keroles Adel
+🔥 Built with passion by Keroles Adel
 </p>
