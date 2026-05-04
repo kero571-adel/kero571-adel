@@ -12,9 +12,6 @@
   <a href="mailto:kerolesadel297@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-contact-red?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="https://github.com/kero571-adel">
-    <img src="https://img.shields.io/badge/GitHub-profile-black?style=for-the-badge&logo=github" />
-  </a>
 </p>
 
 ---
