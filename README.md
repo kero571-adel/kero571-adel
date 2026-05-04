@@ -61,15 +61,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kero571-adel&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kero571-adel&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🎯 Current Focus
 
 - Mastering **Next.js (App Router + Performance)**
